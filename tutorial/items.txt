@@ -1,0 +1,30 @@
+{"url": "https://uk.wikipedia.org/wiki/User_agent", "text_url": "User agent \u2014 \u0412\u0456\u043a\u0456\u043f\u0435\u0434\u0456\u044f"}
+{"url": "https://ru.wikipedia.org/wiki/User_Agent", "text_url": "User Agent \u2014 \u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f"}
+{"url": "http://www.whoishostingthis.com/tools/user-agent/", "text_url": "What's My User Agent? - User Agent & Browser Tools"}
+{"url": "http://www.useragentstring.com/", "text_url": "UserAgentString.com - Googlebot version 2.1"}
+{"url": "http://www.whatsmyua.com/", "text_url": "What's My User Agent?"}
+{"url": "http://www.w3schools.com/jsref/prop_nav_useragent.asp", "text_url": "Navigator userAgent Property - W3Schools"}
+{"url": "https://developer.mozilla.org/ru/docs/Web/API/NavigatorID/userAgent", "text_url": "NavigatorID.userAgent - \u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u044b \u0432\u0435\u0431 API | MDN"}
+{"url": "https://addons.mozilla.org/uk/firefox/addon/user-agent-switcher-firefox/", "text_url": "User-Agent Switcher :: \u0414\u043e\u0434\u0430\u0442\u043a\u0438 \u0434\u043b\u044f Firefox - Add-ons - Mozilla"}
+{"url": "https://developer.chrome.com/multidevice/user-agent", "text_url": "User Agent Strings - Google Chrome"}
+{"url": "https://msdn.microsoft.com/en-us/library/ms537503(v=vs.85).aspx", "text_url": "Understanding user-agent strings (Internet Explorer) - MSDN - Microsoft"}
+{"url": "https://www.whatismybrowser.com/developers/tools/user-agent-parser/", "text_url": "User Agent Parser & Catalog - WhatIsMyBrowser.com"}
+{"url": "https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg", "text_url": "User-Agent Switcher for Chrome - Chrome Web Store - Google"}
+{"url": "https://github.com/gshutler/useragent", "text_url": "GitHub - gshutler/useragent: HTTP User Agent parser"}
+{"url": "https://github.com/3rd-Eden/useragent", "text_url": "GitHub - 3rd-Eden/useragent: Useragent parser for Node.js, ported ..."}
+{"url": "https://browscap.org/ua-lookup", "text_url": "UA Lookup - browscap.org"}
+{"url": "http://webaim.org/blog/user-agent-string-history/", "text_url": "WebAIM: History of the browser user-agent string"}
+{"url": "http://gs.statcounter.com/detect", "text_url": "Useragent Detect | StatCounter Global Stats"}
+{"url": "http://search.cpan.org/perldoc/LWP::UserAgent", "text_url": "LWP::UserAgent - search.cpan.org"}
+{"url": "https://chrispederick.com/work/user-agent-switcher/help/", "text_url": "User Agent Switcher Help - chrispederick.com"}
+{"url": "https://useragentapi.com/", "text_url": "UserAgent API - User Agent String Parser"}
+{"url": "https://www.whatismyip.com/user-agent-info/", "text_url": "User Agent Info - WhatIsMyIP.com\u00ae"}
+{"url": "https://pypi.python.org/pypi/fake-useragent", "text_url": "fake-useragent 0.1.2 : Python Package Index"}
+{"url": "https://rubygems.org/gems/useragent/versions/0.16.7", "text_url": "useragent | RubyGems.org | your community gem host"}
+{"url": "http://www.technipages.com/google-chrome-change-user-agent-string", "text_url": "Google Chrome: Change the User Agent String - Technipages"}
+{"url": "http://www.howtogeek.com/113439/how-to-change-your-browsers-user-agent-without-installing-any-extensions/", "text_url": "How to Change Your Browser's User Agent Without Installing Any ..."}
+{"url": "https://deviceatlas.com/device-data/user-agent-tester", "text_url": "User Agent Tester - DeviceAtlas"}
+{"url": "https://www.elastic.co/guide/en/logstash/current/plugins-filters-useragent.html", "text_url": "useragent | Reference [2.3] | Elastic"}
+{"url": "https://udger.com/resources/ua-list", "text_url": "List of User Agent Strings :: udger.com"}
+{"url": "https://www.codeigniter.com/userguide3/libraries/user_agent.html", "text_url": "User Agent Class \u2014 CodeIgniter 3.1.0 documentation"}
+{"url": "https://habrahabr.ru/post/231107/", "text_url": "\u041c\u043d\u043e\u0433\u043e \u0430\u043d\u043e\u043d\u0438\u043c\u043d\u043e\u0441\u0442\u0438 \u043d\u0435 \u0431\u044b\u0432\u0430\u0435\u0442 \u2014 \u0441\u043a\u0440\u044b\u0432\u0430\u0435\u043c User-Agent / \u0425\u0430\u0431\u0440\u0430\u0445\u0430\u0431\u0440"}

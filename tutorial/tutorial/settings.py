@@ -18,6 +18,7 @@ NEWSPIDER_MODULE = 'tutorial.spiders'
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'tutorial (+http://www.yourdomain.com)'
 
+
 # Obey robots.txt rules
 # ROBOTSTXT_OBEY = True
 
@@ -52,9 +53,9 @@ NEWSPIDER_MODULE = 'tutorial.spiders'
 
 # Enable or disable downloader middlewares
 # See http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
-#DOWNLOADER_MIDDLEWARES = {
-#    'tutorial.middlewares.MyCustomDownloaderMiddleware': 543,
-#}
+DOWNLOADER_MIDDLEWARES = {
+   'tutorial.middlewares.RandomUserAgentMiddleware': 543,
+}
 
 # Enable or disable extensions
 # See http://scrapy.readthedocs.org/en/latest/topics/extensions.html
@@ -64,9 +65,9 @@ NEWSPIDER_MODULE = 'tutorial.spiders'
 
 # Configure item pipelines
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'tutorial.pipelines.SomePipeline': 300,
-#}
+ITEM_PIPELINES = {
+   'tutorial.pipelines.TutorialPipeline': 300,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See http://doc.scrapy.org/en/latest/topics/autothrottle.html
